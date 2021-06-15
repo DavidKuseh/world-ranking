@@ -1,0 +1,19 @@
+{
+  "name": "world-ranking",
+  "version": "1.0.0",
+  "description": "Rank countries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidKuseh/world-ranking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidKuseh/world-ranking/issues"
+  },
+  "homepage": "https://github.com/DavidKuseh/world-ranking#readme"
+}
